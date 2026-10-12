@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Dataset: cek lisensi Kaggle sebelum membagikan ulang. Unduh sendiri (lihat README).
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Kredensial
+kaggle.json
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
