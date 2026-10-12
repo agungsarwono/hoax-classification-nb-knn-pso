@@ -51,7 +51,7 @@
   - [x] Struktur direktori proyek yang rapi dan deskriptif di [`README.md`](README.md)
   - [x] Panduan instalasi dan instruksi eksekusi kode eksperimen
 
-- [ ] **9. Version Control (Git & GitHub)**
-  - [ ] Inisialisasi git lokal (`git init`)
-  - [ ] Commit seluruh dokumen dan kerangka kode
-  - [ ] Push ke repositori GitHub pribadi
+- [x] **9. Version Control (Git & GitHub)**
+  - [x] Inisialisasi git lokal (`git init`)
+  - [x] Commit seluruh dokumen dan kerangka kode
+  - [x] Push ke repositori GitHub pribadi (`agungsarwono/hoax-classification-nb-knn-pso`)
